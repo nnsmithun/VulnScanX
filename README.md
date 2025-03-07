@@ -21,7 +21,7 @@ Follow the instructions in the INSTALL.md file to set up the project.
 Happy Scanning! 🎉
 
 Instruction to run the program:
--> Run App.py and Phish.py file
--> open terminal and go to frontend and npm run dev
+1.Run App.py and Phish.py file
+2. open terminal and go to frontend and npm run dev
 
 Happy Scanning! 🎉
