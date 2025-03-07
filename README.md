@@ -19,3 +19,9 @@ Clone the repository: git clone https://github.com/yourusername/URL-Security-Ana
 Follow the instructions in the INSTALL.md file to set up the project.
 
 Happy Scanning! 🎉
+
+Instruction to run the program:
+-> Run App.py and Phish.py file
+-> open terminal and go to frontend and npm run dev
+
+Happy Scanning! 🎉
